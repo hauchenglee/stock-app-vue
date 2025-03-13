@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# install
+
+- https://stackoverflow.com/questions/79386415/error-could-not-determine-executable-to-run-when-initializing-tailwind-css-wi
+- https://juejin.cn/post/7345071341484113972
